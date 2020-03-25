@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace Domain
+namespace Extension
 {
     public static class ExtensionMethods
     {

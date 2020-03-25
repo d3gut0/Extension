@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Domain
+namespace Extension
 {
     public class StringValue : Attribute
     {
